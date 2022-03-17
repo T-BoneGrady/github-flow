@@ -1,5 +1,12 @@
 'use-strict';
 
+function calculater(age) {
+  const date = date;
+  const calculaterAge = age / date;
+
+  return calculaterAge;
+}
+
 class main() {
   constructor(name) {
     this.name = name
