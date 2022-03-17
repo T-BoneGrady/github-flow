@@ -11,6 +11,9 @@ Now write from server of github
 - **list 2:**
 - **list 3:**
 
+## component
+
+this session component, look all the component of project now
 
 ## Authors:
 
