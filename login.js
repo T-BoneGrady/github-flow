@@ -1,4 +1,4 @@
-import login from 'lg';
+'use-strict';
 
 export function login(id, name) {
   if (id === "23454") {
