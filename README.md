@@ -14,6 +14,7 @@ Now write from server of github
 ## component
 
 this session component, look all the component of project now
+[component correct]()
 
 ## function
 
