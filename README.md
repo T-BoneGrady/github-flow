@@ -15,6 +15,10 @@ Now write from server of github
 
 this session component, look all the component of project now
 
+## function
+
+this session function check all the function you are correct
+
 ## Authors:
 
 [Retr-0](https://www.nobledesktop.com/learn/git/git-branches)
