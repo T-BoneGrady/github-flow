@@ -1,5 +1,10 @@
 'use-strict';
 
-export function header() {
-  console.log("This is header of app");
+export function header(array) {
+  const objects = [];
+  for (const item of array) {
+    if (item['id']) {
+      objects.push(item['id']);
+    }
+  }
 }
