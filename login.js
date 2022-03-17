@@ -1,4 +1,5 @@
 'use-strict';
+import uuid from 'uuid4';
 
 function login(id, name) {
   if (id === "23454") {
@@ -15,7 +16,7 @@ function login(id, name) {
 
 function checkout(token) {
   if (token) {
-    const id = "213412345234123";
+    const id = uuid();
   }
   return id;
 }
