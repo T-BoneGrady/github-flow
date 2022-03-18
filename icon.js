@@ -3,4 +3,5 @@
 function icon() {
   console.log("icon");
   const array = [];
+  let iconTrue = true;
 }
