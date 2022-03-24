@@ -1,6 +1,6 @@
 'use-strict';
 
-export function header(array) {
+function header(array) {
   const objects = [];
   for (const item of array) {
     if (item['id']) {
@@ -8,3 +8,5 @@ export function header(array) {
     }
   }
 }
+
+export default  header;
