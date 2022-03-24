@@ -7,6 +7,7 @@ function calculater(age) {
   return calculaterAge;
 };
 
+// test function very good
 class main {
   constructor(name) {
     this.name = name
