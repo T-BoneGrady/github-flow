@@ -5,9 +5,10 @@ function calculater(age) {
   const calculaterAge = age / date;
 
   return calculaterAge;
-}
+};
 
-class main() {
+// test function very good
+class main {
   constructor(name) {
     this.name = name
   }
@@ -19,4 +20,4 @@ class main() {
   age(age) {
     console.log(`the age of ${this.name} is ${age}`);
   }
-}
+};
