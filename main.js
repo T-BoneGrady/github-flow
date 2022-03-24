@@ -1,4 +1,8 @@
 'use-strict';
+import login from './login';
+import header from './header';
+import footer from './footer';
+import icon from './icon';
 
 function calculater(age) {
   const date = date;
