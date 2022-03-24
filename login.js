@@ -21,4 +21,4 @@ function checkout(token) {
   return id;
 }
 
-export default login;
+export default { login, checkout };
