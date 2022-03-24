@@ -1,5 +1,19 @@
-Titulio
+# Titulo
 
-parrafo 1
+## subtitulo
+**parrafo 1**
 
-parrafo 2
+**parrafo 2**
+
+**parrafo 3**
+
+**parrafo 4**
+
+[link](url)
+
+## subtitulo 2
+lista de actividades
+
+- lista 1
+- lista 2
+- lista 3

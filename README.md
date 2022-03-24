@@ -23,6 +23,10 @@ this session function check all the function you are correct
 ## Authors:
 
 [Retr-0](https://www.nobledesktop.com/learn/git/git-branches)
+
 [Kakarbo](https://www.cloudbees.com/blog/git-delete-branch-how-to-for-both-local-and-remote)
+
+[clauparra](https://github.com/clauparra)
+
 [WebPag]()
 
