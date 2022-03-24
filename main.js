@@ -25,3 +25,5 @@ class main {
     console.log(`the age of ${this.name} is ${age}`);
   }
 };
+
+export default { main, calculater};
