@@ -23,6 +23,9 @@ function checkout(token) {
 
 function longup(idUser) {
   let id = idUser;
+  if (id) {
+    console.log(`No is id ${id}`);
+  }
   return id;
 }
 
