@@ -21,4 +21,12 @@ function checkout(token) {
   return id;
 }
 
-export default { login, checkout };
+function longup(idUser) {
+  let id = idUser;
+  if (id) {
+    console.log(`No is id ${id}`);
+  }
+  return id;
+}
+
+export default { login, checkout, longup };
