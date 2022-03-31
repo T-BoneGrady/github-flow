@@ -22,8 +22,8 @@ function checkout(token) {
 }
 
 function longup(idUser) {
-  let id = idUser
-  return id
+  let id = idUser;
+  return id;
 }
 
 export default { login, checkout, longup };
